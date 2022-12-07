@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT, 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @dcanomainar10
+- 📫 How to reach me d.cano@spherag.com
 
 <!---
 DCanoSpherag/DCanoSpherag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
