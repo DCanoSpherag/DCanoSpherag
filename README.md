@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Daniel Cano
-- 👀 I’m interested in IoT, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me d.cano@spherag.com
 
 <!---
